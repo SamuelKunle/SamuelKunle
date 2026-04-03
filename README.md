@@ -15,7 +15,6 @@ I design and build scalable, production-ready systems across AI, fintech, market
 - [Fintech Transaction System](https://github.com/SamuelKunle/fintech-transaction-system)
 - [Real-Time Alert System](https://github.com/SamuelKunle/realtime-alert-system)
 - [Marketplace System](https://github.com/SamuelKunle/marketplace-system)
-
 ---
 
 ## 🔥 What I Build
