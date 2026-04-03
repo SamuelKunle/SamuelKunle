@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Samuel Alayande
 
+![Profile Views](https://komarev.com/ghpvc/?username=SamuelKunle&color=blue)
+
 🚀 AI Product Engineer • Technical Founder • Multi-Model AI Systems • Fintech • Real-Time Platforms
 
 I design and build scalable, real-world products across AI, fintech, marketplaces, and real-time systems.
