@@ -6,6 +6,16 @@ I design and build scalable, real-world products across AI, fintech, marketplace
 
 ---
 
+## 🚀 Featured Systems
+
+- AI SaaS Platform (multi-model AI system)
+- LLM Routing Engine (AI infrastructure)
+- Fintech Transaction System (wallet & payment architecture)
+- Real-Time Alert System (event-driven safety workflows)
+- Marketplace System (multi-category platform design)
+
+---
+
 ## 🔥 What I Build
 
 - AI-powered products using multi-model systems (OpenAI, Claude, Gemini)
