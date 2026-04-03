@@ -4,17 +4,17 @@
 
 🚀 AI Product Engineer • Technical Founder • Multi-Model AI Systems • Fintech • Real-Time Platforms
 
-I design and build scalable, real-world products across AI, fintech, marketplaces, and real-time systems.
+I design and build scalable, production-ready systems across AI, fintech, marketplaces, and real-time platforms.
 
 ---
 
 ## 🚀 Featured Systems
 
-- AI SaaS Platform (multi-model AI system)
-- LLM Routing Engine (AI infrastructure)
-- Fintech Transaction System (wallet & payment architecture)
-- Real-Time Alert System (event-driven safety workflows)
-- Marketplace System (multi-category platform design)
+- [AI SaaS Platform](https://github.com/SamuelKunle/ai-saas-starter)
+- [LLM Routing Engine](https://github.com/SamuelKunle/llm-routing-engine)
+- [Fintech Transaction System](https://github.com/SamuelKunle/fintech-transaction-system)
+- [Real-Time Alert System](https://github.com/SamuelKunle/realtime-alert-system)
+- [Marketplace System](https://github.com/SamuelKunle/marketplace-system)
 
 ---
 
