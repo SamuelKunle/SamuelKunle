@@ -6,6 +6,22 @@
 
 I design and build scalable, production-ready systems across AI, fintech, marketplaces, and real-time platforms — with a strong focus on architecture, reliability, and product-driven engineering.
 
+*Production codebases are private — public repositories focus on architecture, system design, and engineering patterns.*
+
+---
+
+## 🏗️ System Overview
+
+```mermaid
+flowchart LR
+    User --> Frontend
+    Frontend --> API
+    API --> Services
+    Services --> AI
+    Services --> Database
+    Services --> ExternalAPIs
+```
+
 ---
 
 ## 🚀 Featured Systems
@@ -27,35 +43,33 @@ I design and build scalable, production-ready systems across AI, fintech, market
 
 ---
 
-## 🔥 What I Build
+## 🧠 What I Build & Expertise
 
 * AI-powered systems using multi-model architectures (OpenAI, Claude, Gemini)
-* Full-stack applications with modern frontend and backend frameworks
+* Full-stack applications with Next.js and FastAPI
 * Scalable APIs, backend services, and workflow orchestration
-* Real-world platforms across AI, fintech, safety systems, and digital marketplaces
+* Event-driven and real-time systems
+* Product-focused backend architecture and system design
 
----
+### Core Areas
 
-## 🧠 Core Expertise
-
-### AI Systems
+**AI Systems**
 
 * Multi-model AI integration and orchestration
 * Routing, fallback strategies, and provider abstraction
-* AI workflows, automation, and response normalization
+* AI workflows and response normalization
 
-### Full-Stack Engineering
+**Full-Stack Engineering**
 
 * Frontend: Next.js, React (modern, responsive UI)
 * Backend: FastAPI, REST APIs, async systems
 * Database: PostgreSQL, Supabase, MSSQL
 
-### System Architecture
+**System Architecture**
 
 * API orchestration and service design
 * Scalable and distributed system thinking
-* Event-driven and real-time systems
-* Product-focused backend engineering
+* Real-time and event-driven systems
 
 ---
 
@@ -69,10 +83,13 @@ OpenAI • Claude • Gemini • OpenRouter
 
 ## 🌍 Current Focus
 
-* AI product engineering and system design
-* Scalable backend architecture
-* Real-time and event-driven systems
-* Building production-ready platforms with strong UX and reliability
+Currently building and evolving real-world systems including:
+
+* SoroNow AI — an all-in-one AI workspace with multi-model architecture
+* Scalable backend systems for fintech and real-time applications
+* Product-driven platforms that combine AI, system design, and user experience
+
+Focused on pushing systems from architecture → production-ready platforms.
 
 ---
 
