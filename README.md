@@ -10,21 +10,24 @@ I design and build scalable, production-ready systems across AI, fintech, market
 
 ---
 
-## 🏗️ System Overview
+## 🧠 System Architecture (LLM Routing Example)
 
 ```mermaid
 flowchart LR
-    User --> Frontend
-    Frontend --> API
-    API --> Services
-    Services --> AI
-    Services --> Database
-    Services --> ExternalAPIs
+    Client --> API
+    API --> Router
+    Router -->|Primary| OpenAI
+    Router -->|Fallback| Claude
+    Router -->|Fallback| Gemini
+    OpenAI --> Normalizer
+    Claude --> Normalizer
+    Gemini --> Normalizer
+    Normalizer --> Response
 ```
 
 ---
 
-## 🚀 Featured Systems
+## 🔧 Featured Systems
 
 * [AI SaaS Platform](https://github.com/SamuelKunle/ai-saas-starter)
   Full-stack architecture for building AI-powered SaaS products using Next.js and FastAPI.
