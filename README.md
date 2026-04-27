@@ -4,7 +4,9 @@
 
 ### AI Product Engineer • Technical Founder • Multi-Model AI Systems • Fintech • Real-Time Platforms
 
-I design and build scalable, production-ready systems across **AI, fintech, marketplaces, and real-time platforms** — with a strong focus on **architecture, reliability, and product-driven engineering**.
+I design and build scalable, production-minded systems across **AI, fintech, marketplaces, and real-time platforms** — with a strong focus on **architecture, reliability, backend logic, and product-driven engineering**.
+
+<br />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=SamuelKunle&color=blue&style=flat-square)](https://github.com/SamuelKunle)
 
@@ -14,12 +16,47 @@ I design and build scalable, production-ready systems across **AI, fintech, mark
 
 <div align="center">
 
-### Building practical systems from architecture → production-ready platforms
+## Building intelligent systems from architecture → engineering patterns → production-ready platforms
 
 </div>
 
+<p align="center">
+  <strong>AI Platforms</strong> •
+  <strong>LLM Routing</strong> •
+  <strong>Backend Architecture</strong> •
+  <strong>Fintech Systems</strong> •
+  <strong>Real-Time Infrastructure</strong> •
+  <strong>Marketplace Platforms</strong>
+</p>
+
+---
+
+## 🧭 Engineering Identity
+
+I build systems where **product thinking meets backend architecture**.
+
+My work focuses on designing practical, scalable, and reliable software systems that can support real users, real workflows, and real product growth. I enjoy working across the full product stack — from backend services and API design to frontend experience, AI workflows, database structure, and system reliability.
+
 > **Production codebases are private.**  
-> Public repositories focus on **architecture, system design, implementation patterns, and engineering documentation**.
+> Public repositories focus on **architecture, system design, implementation patterns, engineering documentation, and public-safe technical demonstrations**.
+
+---
+
+## 🚀 Current Focus
+
+```txt
+SoroNow AI
+├── All-in-one AI workspace
+├── Multi-model AI architecture
+├── AI chat and productivity workflows
+├── Writing, research, business, and document tools
+├── File utilities and content workflows
+├── Provider abstraction and fallback logic
+├── API orchestration and response normalization
+└── Production-minded AI platform engineering
+```
+
+I am currently building and evolving **SoroNow AI** — an all-in-one AI workspace designed to help users chat, write, research, analyze documents, generate content, convert files, and complete productivity tasks faster using intelligent AI tools.
 
 ---
 
@@ -29,21 +66,23 @@ I design and build scalable, production-ready systems across **AI, fintech, mark
 
 ```mermaid
 flowchart LR
-    A[Client] --> B[API Layer]
-    B --> C{Model Router}
+    A[Client Request] --> B[Frontend Interface]
+    B --> C[API Layer]
+    C --> D{Model Router}
 
-    C -->|Primary| D[OpenAI]
-    C -->|Fallback| E[Claude]
-    C -->|Fallback| F[Gemini]
+    D -->|Primary Provider| E[OpenAI]
+    D -->|Fallback Provider| F[Claude]
+    D -->|Fallback Provider| G[Gemini]
 
-    D --> G[Response Normalizer]
-    E --> G
-    F --> G
+    E --> H[Response Normalizer]
+    F --> H
+    G --> H
 
-    G --> H[Formatted Response]
+    H --> I[Output Formatter]
+    I --> J[Final Response]
 ```
 
-This example shows a simplified multi-model AI flow: request handling, provider routing, fallback logic, response normalization, and final response delivery.
+This architecture pattern demonstrates how I think about **provider abstraction, fallback strategies, AI routing, normalized responses, and resilient product experiences**.
 
 ---
 
@@ -59,7 +98,7 @@ This example shows a simplified multi-model AI flow: request handling, provider 
         Full-stack architecture for building AI-powered SaaS products using Next.js and FastAPI.
       </p>
       <p>
-        <strong>Focus:</strong> AI workflows, SaaS architecture, API structure, full-stack product systems.
+        <strong>Focus:</strong> AI workflows, SaaS structure, API design, authentication patterns, frontend/backend separation, and product-ready architecture.
       </p>
     </td>
     <td width="50%">
@@ -70,7 +109,7 @@ This example shows a simplified multi-model AI flow: request handling, provider 
         Backend system for multi-model AI routing, fallback logic, provider abstraction, and response normalization.
       </p>
       <p>
-        <strong>Focus:</strong> OpenAI, Claude, Gemini, routing logic, fallback handling.
+        <strong>Focus:</strong> OpenAI, Claude, Gemini, model selection, fallback handling, response formatting, and resilient AI infrastructure.
       </p>
     </td>
   </tr>
@@ -83,7 +122,7 @@ This example shows a simplified multi-model AI flow: request handling, provider 
         Architecture-focused backend demonstrating wallet flows, transaction lifecycle, financial system design, and reliability thinking.
       </p>
       <p>
-        <strong>Focus:</strong> Wallet logic, transactions, lifecycle states, backend reliability.
+        <strong>Focus:</strong> Wallet logic, transaction states, balance consistency, failure handling, rollback thinking, and backend reliability.
       </p>
     </td>
     <td width="50%">
@@ -94,7 +133,7 @@ This example shows a simplified multi-model AI flow: request handling, provider 
         Event-driven backend system for real-time tracking, alert workflows, escalation logic, and notification patterns.
       </p>
       <p>
-        <strong>Focus:</strong> Real-time systems, alerting, escalation workflows, event-driven architecture.
+        <strong>Focus:</strong> Real-time systems, event flows, alert escalation, session tracking, and safety-focused infrastructure.
       </p>
     </td>
   </tr>
@@ -107,16 +146,16 @@ This example shows a simplified multi-model AI flow: request handling, provider 
         System design for a scalable multi-category marketplace platform with structured listings and search.
       </p>
       <p>
-        <strong>Focus:</strong> Marketplace architecture, listings, search, scalable product structure.
+        <strong>Focus:</strong> Marketplace architecture, listings, product structure, search, filtering, and scalable catalog design.
       </p>
     </td>
     <td width="50%">
-      <h3>Engineering Direction</h3>
+      <h3>Engineering Pattern Library</h3>
       <p>
-        Product-focused backend and full-stack architecture designed around reliability, clarity, and long-term scalability.
+        Public-safe examples that communicate how I structure systems, think through backend flows, and document scalable implementation patterns.
       </p>
       <p>
-        <strong>Focus:</strong> Systems thinking, clean architecture, practical engineering.
+        <strong>Focus:</strong> System clarity, documentation, architecture thinking, and production-minded engineering communication.
       </p>
     </td>
   </tr>
@@ -124,7 +163,7 @@ This example shows a simplified multi-model AI flow: request handling, provider 
 
 ---
 
-## 🧠 What I Build & Expertise
+## 🧩 Core Engineering Areas
 
 <table>
   <tr>
@@ -132,30 +171,33 @@ This example shows a simplified multi-model AI flow: request handling, provider 
       <h3>AI Systems</h3>
       <ul>
         <li>Multi-model AI integration</li>
-        <li>Routing and fallback strategies</li>
+        <li>LLM routing architecture</li>
         <li>Provider abstraction</li>
-        <li>AI workflow orchestration</li>
+        <li>Fallback strategies</li>
         <li>Response normalization</li>
+        <li>AI workflow orchestration</li>
       </ul>
     </td>
     <td width="33%">
       <h3>Full-Stack Engineering</h3>
       <ul>
-        <li>Next.js and React applications</li>
+        <li>Next.js applications</li>
+        <li>React interfaces</li>
         <li>FastAPI backend services</li>
         <li>REST API design</li>
-        <li>Async backend systems</li>
-        <li>Responsive product interfaces</li>
+        <li>Authentication flows</li>
+        <li>Responsive product UI</li>
       </ul>
     </td>
     <td width="33%">
-      <h3>System Architecture</h3>
+      <h3>Backend Architecture</h3>
       <ul>
         <li>API orchestration</li>
-        <li>Service design</li>
-        <li>Scalable backend patterns</li>
-        <li>Real-time workflows</li>
-        <li>Event-driven systems</li>
+        <li>Service-layer design</li>
+        <li>Database-backed workflows</li>
+        <li>Async backend systems</li>
+        <li>Event-driven patterns</li>
+        <li>Reliability-focused logic</li>
       </ul>
     </td>
   </tr>
@@ -175,11 +217,17 @@ This example shows a simplified multi-model AI flow: request handling, provider 
 <img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 
+<br />
+<br />
+
 ### Databases & Platforms
 
 <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Supabase-111827?style=for-the-badge&logo=supabase&logoColor=white" />
 <img src="https://img.shields.io/badge/MSSQL-111827?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+
+<br />
+<br />
 
 ### AI Infrastructure
 
@@ -192,32 +240,68 @@ This example shows a simplified multi-model AI flow: request handling, provider 
 
 ---
 
-## 🌍 Current Focus
+## 📊 GitHub Overview
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SamuelKunle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Samuel's GitHub Stats" />
+
+<br />
+<br />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelKunle&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<br />
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelKunle&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🌍 Current Direction
 
 <table>
   <tr>
     <td width="33%">
       <h3>SoroNow AI</h3>
       <p>
-        An all-in-one AI workspace with multi-model architecture, productivity tools, and AI-powered workflows.
+        An all-in-one AI workspace with multi-model architecture, productivity tools, document intelligence, and AI-powered workflows.
       </p>
     </td>
     <td width="33%">
       <h3>Fintech Systems</h3>
       <p>
-        Scalable backend systems for wallet logic, transactions, lifecycle states, and reliability-focused financial workflows.
+        Backend systems for wallet logic, transaction lifecycle, balance consistency, failure handling, and financial workflow design.
       </p>
     </td>
     <td width="33%">
       <h3>Real-Time Platforms</h3>
       <p>
-        Event-driven systems for alerts, tracking, escalation logic, and real-time product infrastructure.
+        Event-driven systems for alerts, tracking, escalation logic, notifications, monitoring, and real-time product infrastructure.
       </p>
     </td>
   </tr>
 </table>
 
-Focused on pushing systems from **architecture → implementation patterns → production-ready platforms**.
+---
+
+## 🧠 How I Think About Systems
+
+```txt
+Good products need more than features.
+
+They need:
+├── Clear architecture
+├── Reliable backend logic
+├── Scalable data flow
+├── Practical API design
+├── Smooth user experience
+├── Failure-aware engineering
+├── Strong documentation
+└── Product thinking from day one
+```
 
 ---
 
@@ -225,12 +309,28 @@ Focused on pushing systems from **architecture → implementation patterns → p
 
 <table>
   <tr>
-    <td>AI Product Engineering roles</td>
-    <td>Backend / Full-Stack Engineering opportunities</td>
+    <td width="50%">
+      <strong>AI Product Engineering roles</strong>
+      <br />
+      Building AI-powered products, multi-model systems, and intelligent workflows.
+    </td>
+    <td width="50%">
+      <strong>Backend / Full-Stack Engineering opportunities</strong>
+      <br />
+      Designing scalable APIs, product systems, dashboards, and backend services.
+    </td>
   </tr>
   <tr>
-    <td>Startup collaborations</td>
-    <td>Technical partnerships on product-driven systems</td>
+    <td width="50%">
+      <strong>Startup collaborations</strong>
+      <br />
+      Working on AI, fintech, real-time platforms, marketplaces, and product infrastructure.
+    </td>
+    <td width="50%">
+      <strong>Technical partnerships</strong>
+      <br />
+      Helping shape architecture, system design, implementation patterns, and product direction.
+    </td>
   </tr>
 </table>
 
@@ -240,8 +340,18 @@ Focused on pushing systems from **architecture → implementation patterns → p
 
 <div align="center">
 
-### Let’s connect around AI systems, fintech infrastructure, real-time platforms, and product-driven engineering.
+### Let’s connect around AI systems, fintech infrastructure, real-time platforms, marketplaces, and product-driven engineering.
+
+<br />
 
 📧 [samuelkunle316@gmail.com](mailto:samuelkunle316@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### Building systems with clarity, reliability, and product purpose.
 
 </div>
