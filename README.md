@@ -10,13 +10,18 @@ I design and build scalable, production-minded systems across **AI, fintech, mar
 
 [![Profile Views](https://komarev.com/ghpvc/?username=SamuelKunle&color=blue&style=flat-square)](https://github.com/SamuelKunle)
 
+<br />
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:7c3aed&height=180&section=header&text=Building%20Intelligent%20Systems&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Platforms%20%E2%80%A2%20Fintech%20Systems%20%E2%80%A2%20Real-Time%20Infrastructure&descAlignY=58&descSize=16" />
+
 </div>
 
 ---
 
 <div align="center">
 
-## Building intelligent systems from architecture → engineering patterns → production-ready platforms
+## Architecture-first engineering for AI products, backend systems, and scalable platforms
 
 </div>
 
@@ -100,6 +105,9 @@ This architecture pattern demonstrates how I think about **provider abstraction,
       <p>
         <strong>Focus:</strong> AI workflows, SaaS structure, API design, authentication patterns, frontend/backend separation, and product-ready architecture.
       </p>
+      <p>
+        <code>Next.js</code> <code>FastAPI</code> <code>AI SaaS</code> <code>Architecture</code>
+      </p>
     </td>
     <td width="50%">
       <h3>
@@ -110,6 +118,9 @@ This architecture pattern demonstrates how I think about **provider abstraction,
       </p>
       <p>
         <strong>Focus:</strong> OpenAI, Claude, Gemini, model selection, fallback handling, response formatting, and resilient AI infrastructure.
+      </p>
+      <p>
+        <code>LLM Routing</code> <code>Fallbacks</code> <code>AI Infra</code> <code>Normalization</code>
       </p>
     </td>
   </tr>
@@ -124,6 +135,9 @@ This architecture pattern demonstrates how I think about **provider abstraction,
       <p>
         <strong>Focus:</strong> Wallet logic, transaction states, balance consistency, failure handling, rollback thinking, and backend reliability.
       </p>
+      <p>
+        <code>Fintech</code> <code>Wallets</code> <code>Transactions</code> <code>Reliability</code>
+      </p>
     </td>
     <td width="50%">
       <h3>
@@ -134,6 +148,9 @@ This architecture pattern demonstrates how I think about **provider abstraction,
       </p>
       <p>
         <strong>Focus:</strong> Real-time systems, event flows, alert escalation, session tracking, and safety-focused infrastructure.
+      </p>
+      <p>
+        <code>Real-Time</code> <code>Events</code> <code>Alerts</code> <code>Escalation</code>
       </p>
     </td>
   </tr>
@@ -148,6 +165,9 @@ This architecture pattern demonstrates how I think about **provider abstraction,
       <p>
         <strong>Focus:</strong> Marketplace architecture, listings, product structure, search, filtering, and scalable catalog design.
       </p>
+      <p>
+        <code>Marketplace</code> <code>Search</code> <code>Listings</code> <code>Catalog</code>
+      </p>
     </td>
     <td width="50%">
       <h3>Engineering Pattern Library</h3>
@@ -156,6 +176,9 @@ This architecture pattern demonstrates how I think about **provider abstraction,
       </p>
       <p>
         <strong>Focus:</strong> System clarity, documentation, architecture thinking, and production-minded engineering communication.
+      </p>
+      <p>
+        <code>System Design</code> <code>Docs</code> <code>Backend Patterns</code> <code>Product Thinking</code>
       </p>
     </td>
   </tr>
@@ -211,30 +234,32 @@ This architecture pattern demonstrates how I think about **provider abstraction,
 
 ### Languages & Frameworks
 
-<img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python,js,fastapi,react,nextjs" />
 
 <br />
 <br />
 
 ### Databases & Platforms
 
-<img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-111827?style=for-the-badge&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/MSSQL-111827?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=postgres,supabase" />
 
 <br />
 <br />
 
-### AI Infrastructure
+### AI & Product Infrastructure
 
 <img src="https://img.shields.io/badge/OpenAI-020617?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Claude-020617?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Gemini-020617?style=for-the-badge&logo=googlegemini&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenRouter-020617?style=for-the-badge" />
+
+<br />
+<br />
+
+<img src="https://img.shields.io/badge/MSSQL-111827?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/API%20Design-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/System%20Architecture-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Product%20Engineering-111827?style=for-the-badge" />
 
 </div>
 
@@ -255,6 +280,21 @@ This architecture pattern demonstrates how I think about **provider abstraction,
 <br />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelKunle&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br />
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SamuelKunle&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+
+</div>
+
+---
+
+## 🐍 Contribution Flow
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SamuelKunle/SamuelKunle/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
@@ -305,6 +345,41 @@ They need:
 
 ---
 
+## 🧱 Engineering Principles
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Reliability First</h3>
+      <p>
+        I think through failure states, fallback paths, transaction consistency, and predictable system behavior before scaling features.
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Product-Aware Architecture</h3>
+      <p>
+        I design systems around real user flows, not just technical abstraction. The architecture should support the product experience.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Clean System Boundaries</h3>
+      <p>
+        I value clear service responsibilities, clean API contracts, readable workflows, and maintainable implementation patterns.
+      </p>
+    </td>
+    <td width="50%">
+      <h3>Documented Thinking</h3>
+      <p>
+        I use documentation and public-safe repositories to communicate architecture, decision-making, and engineering tradeoffs.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🤝 Open To
 
 <table>
@@ -351,6 +426,8 @@ They need:
 ---
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1e3a8a,100:0f172a&height=120&section=footer" />
 
 ### Building systems with clarity, reliability, and product purpose.
 
