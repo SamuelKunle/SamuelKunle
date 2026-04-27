@@ -281,24 +281,15 @@ This architecture pattern demonstrates how I think about **provider abstraction,
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelKunle&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<br />
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SamuelKunle&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
-
 </div>
 
 ---
 
-## 🐍 Contribution Flow
+## 📈 Live Contribution Activity
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamuelKunle/SamuelKunle/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamuelKunle/SamuelKunle/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/SamuelKunle/SamuelKunle/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SamuelKunle&theme=tokyo-night&hide_border=true&area=true" alt="SamuelKunle GitHub Activity Graph" />
 
 </div>
 
