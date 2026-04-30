@@ -39,9 +39,34 @@ My work sits at the intersection of **software engineering, product thinking, ba
 
 ---
 
+## 📌 Proof of Work
+
+<table>
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <h3>12+</h3>
+      <p>Years building software, web systems, IT workflows, and product platforms.</p>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h3>10+</h3>
+      <p>Production systems shipped across AI, fintech, marketplaces, automation, and real-time platforms.</p>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h3>50+</h3>
+      <p>AI tools unified into SoroNow AI across writing, research, content, business, and productivity workflows.</p>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <h3>Multi-stack</h3>
+      <p>Frontend, backend, AI infrastructure, databases, cloud, product systems, and technical operations.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🧭 Engineering Identity
 
-I am a software engineer and technical founder with experience building and operating systems across **web platforms, internal tools, AI products, fintech workflows, real-time applications, and business-critical digital infrastructure**.
+I am a software engineer and technical founder with experience building and operating systems across **web platforms, internal tools, AI products, fintech workflows, real-time applications, automation systems, and business-critical digital infrastructure**.
 
 My strength is not only writing code. It is understanding the product problem, shaping the system architecture, building reliable backend logic, creating usable frontend experiences, and documenting engineering decisions clearly.
 
@@ -59,8 +84,14 @@ Product idea
 └── Documentation for long-term maintainability
 ```
 
-> **Production codebases are private.**  
-> Public repositories focus on **architecture, system design, public-safe implementation patterns, engineering documentation, and technical demonstrations**.
+---
+
+## 🔐 Public Repository Note
+
+Most production systems I build are private, business-owned, or client-facing.  
+The repositories here are designed as **public-safe engineering demonstrations** showing how I think about architecture, backend flows, API structure, system reliability, implementation patterns, and technical documentation.
+
+They are intentionally structured to communicate **engineering judgment, system design, documentation quality, and implementation direction**.
 
 ---
 
@@ -111,6 +142,54 @@ flowchart LR
 ```
 
 This architecture pattern demonstrates how I approach **provider abstraction, fallback strategies, AI routing, normalized responses, resilient UX, and production-grade AI product behavior**.
+
+---
+
+## 🧱 Systems I Build
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>AI Product Platforms</h3>
+      <p>
+        Multi-model AI systems, AI workspaces, content tools, document intelligence, routing logic, response normalization, and workflow automation.
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Fintech Backends</h3>
+      <p>
+        Wallet flows, transaction states, balance integrity, idempotency, audit trails, rollback thinking, and financial workflow reliability.
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Real-Time Systems</h3>
+      <p>
+        Live tracking, alerts, escalation workflows, notifications, sessions, event-driven flows, and low-latency product experiences.
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Marketplace Platforms</h3>
+      <p>
+        Listings, catalogs, search, filtering, multi-category structures, user workflows, and scalable data models.
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Business Web Systems</h3>
+      <p>
+        Websites, dashboards, internal tools, backend-connected workflows, admin systems, and operational platforms.
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Automation Tools</h3>
+      <p>
+        Messaging workflows, task orchestration, API integrations, productivity utilities, and intelligent business processes.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -301,57 +380,6 @@ This architecture pattern demonstrates how I approach **provider abstraction, fa
 
 ---
 
-## 🏗️ Broader Engineering Experience
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Product Platforms</h3>
-      <p>
-        Building complete products from idea to usable systems — including dashboards, user flows, authentication, backend services, integrations, and deployment-ready architecture.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Business-Critical Web Systems</h3>
-      <p>
-        Designing and maintaining websites, internal tools, database-backed workflows, and operational systems that support real organizations and daily business needs.
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Fintech & Transaction Logic</h3>
-      <p>
-        Designing wallet systems, transaction states, balance consistency, audit trails, rollback thinking, and money-movement infrastructure patterns.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Real-Time Infrastructure</h3>
-      <p>
-        Building event-driven systems for tracking, alerts, escalation workflows, live updates, notifications, and low-latency product experiences.
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3>IT Systems & Operations</h3>
-      <p>
-        Practical experience supporting internal systems, troubleshooting, device workflows, staff operations, software setup, and infrastructure reliability.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Technical Documentation</h3>
-      <p>
-        Creating public-safe architecture documents, system diagrams, implementation notes, and engineering explanations that communicate how systems are designed.
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🛠️ Languages, Tools & Technologies
 
 <div align="center">
@@ -455,6 +483,87 @@ This architecture pattern demonstrates how I approach **provider abstraction, fa
 
 ---
 
+## 🧠 Architecture Decision Style
+
+```txt
+When designing systems, I usually think through:
+
+Problem clarity
+├── What user or business problem is being solved?
+├── What workflow needs to feel simple?
+├── What data needs to be trusted?
+└── What can break in real usage?
+
+System design
+├── What should live on the frontend?
+├── What belongs in the backend?
+├── What should be async or queued?
+├── What data needs strong consistency?
+├── Where do fallbacks matter?
+└── What should be easy to change later?
+
+Production readiness
+├── How does the system fail safely?
+├── How is the flow monitored?
+├── How do we avoid duplicated work?
+├── How do we protect data integrity?
+├── How do we keep the interface smooth?
+└── How will the system evolve as usage grows?
+```
+
+---
+
+## 🧱 Engineering Principles
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Reliability First</h3>
+      <p>
+        I think through failure states, fallback paths, transaction consistency, retries, edge cases, and predictable system behavior before scaling features.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Product-Aware Architecture</h3>
+      <p>
+        I design systems around real user flows, not just technical abstraction. The architecture should support the actual product experience.
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Clean System Boundaries</h3>
+      <p>
+        I value clear service responsibilities, clean API contracts, readable workflows, maintainable code structure, and practical separation of concerns.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Documentation as Proof</h3>
+      <p>
+        I use documentation, diagrams, and public-safe repositories to communicate architecture, decision-making, tradeoffs, and engineering maturity.
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3>End-to-End Ownership</h3>
+      <p>
+        I can move from product idea to architecture, implementation, deployment, testing, UI polish, and continuous improvement.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Practical Engineering</h3>
+      <p>
+        I care about systems that actually work in the real world — with real users, real constraints, real errors, and real business needs.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📊 GitHub Overview
 
 <div align="center">
@@ -526,77 +635,6 @@ This architecture pattern demonstrates how I approach **provider abstraction, fa
       <h3>System Design Library</h3>
       <p>
         Public-safe architecture examples showing how I think through backend flows, reliability, product systems, and implementation patterns.
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🧠 How I Think About Systems
-
-```txt
-Good software is not only about features.
-
-It needs:
-├── Clear architecture
-├── Reliable backend logic
-├── Practical API design
-├── Strong data modeling
-├── Smooth user experience
-├── Failure-aware engineering
-├── Secure authentication flows
-├── Scalable infrastructure thinking
-├── Maintainable documentation
-└── Product purpose from day one
-```
-
----
-
-## 🧱 Engineering Principles
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Reliability First</h3>
-      <p>
-        I think through failure states, fallback paths, transaction consistency, retries, edge cases, and predictable system behavior before scaling features.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Product-Aware Architecture</h3>
-      <p>
-        I design systems around real user flows, not just technical abstraction. The architecture should support the actual product experience.
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Clean System Boundaries</h3>
-      <p>
-        I value clear service responsibilities, clean API contracts, readable workflows, maintainable code structure, and practical separation of concerns.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Documentation as Proof</h3>
-      <p>
-        I use documentation, diagrams, and public-safe repositories to communicate architecture, decision-making, tradeoffs, and engineering maturity.
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3>End-to-End Ownership</h3>
-      <p>
-        I can move from product idea to architecture, implementation, deployment, testing, UI polish, and continuous improvement.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Practical Engineering</h3>
-      <p>
-        I care about systems that actually work in the real world — with real users, real constraints, real errors, and real business needs.
       </p>
     </td>
   </tr>
