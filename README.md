@@ -86,12 +86,13 @@ Product idea
 
 ---
 
-## 🔐 Public Repository Note
+## 🔐 Repository Direction
 
-Most production systems I build are private, business-owned, or client-facing.  
-The repositories here are designed as **public-safe engineering demonstrations** showing how I think about architecture, backend flows, API structure, system reliability, implementation patterns, and technical documentation.
+Some of my work is private, business-owned, or client-facing, but this GitHub profile is actively being shaped into a public technical portfolio.
 
-They are intentionally structured to communicate **engineering judgment, system design, documentation quality, and implementation direction**.
+Here, I share and will continue to publish **public project builds, architecture examples, implementation patterns, backend workflows, system design notes, and technical documentation** across AI systems, fintech workflows, real-time platforms, marketplaces, automation, and full-stack software engineering.
+
+The goal is to make this space a clear view into how I build — from **problem understanding and system architecture** to **API design, data modeling, reliability thinking, frontend experience, and product implementation**.
 
 ---
 
