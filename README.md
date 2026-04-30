@@ -229,29 +229,71 @@ This architecture pattern demonstrates how I approach **provider abstraction, fa
       </ul>
     </td>
     <td width="33%" valign="top">
-      <h3>Full-Stack Engineering</h3>
+      <h3>Frontend Engineering</h3>
       <ul>
-        <li>Next.js applications</li>
-        <li>React interfaces</li>
+        <li>React and Next.js applications</li>
+        <li>Vue-based interfaces</li>
         <li>TypeScript product UI</li>
-        <li>FastAPI backend services</li>
-        <li>Node.js systems</li>
-        <li>REST API design</li>
-        <li>Authentication flows</li>
-        <li>Responsive product experiences</li>
+        <li>Responsive layouts</li>
+        <li>Mobile-first UX</li>
+        <li>Tailwind, Bootstrap, Sass, CSS</li>
+        <li>Product dashboards</li>
+        <li>Accessible web interfaces</li>
       </ul>
     </td>
     <td width="33%" valign="top">
-      <h3>Backend Architecture</h3>
+      <h3>Backend Engineering</h3>
       <ul>
-        <li>API orchestration</li>
-        <li>Service-layer design</li>
-        <li>Database-backed workflows</li>
+        <li>FastAPI services</li>
+        <li>Node.js and Express APIs</li>
+        <li>Django and Laravel systems</li>
+        <li>REST API design</li>
+        <li>Authentication workflows</li>
+        <li>Database-backed logic</li>
         <li>Async backend systems</li>
-        <li>Event-driven patterns</li>
-        <li>Queue-backed processing</li>
-        <li>Failure-aware logic</li>
-        <li>Reliability-focused design</li>
+        <li>Service-layer architecture</li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Data & Databases</h3>
+      <ul>
+        <li>PostgreSQL data modeling</li>
+        <li>MySQL-backed systems</li>
+        <li>MongoDB document workflows</li>
+        <li>Supabase applications</li>
+        <li>Redis-backed caching</li>
+        <li>Transaction lifecycle logic</li>
+        <li>Data integrity patterns</li>
+        <li>Search and filtering systems</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Infrastructure</h3>
+      <ul>
+        <li>Cloud deployments</li>
+        <li>AWS and Google Cloud awareness</li>
+        <li>Dockerized services</li>
+        <li>Vercel deployment workflows</li>
+        <li>Git and GitHub workflows</li>
+        <li>Linux environments</li>
+        <li>System reliability</li>
+        <li>Operational troubleshooting</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Product Systems</h3>
+      <ul>
+        <li>Fintech platforms</li>
+        <li>Marketplace systems</li>
+        <li>Real-time alert platforms</li>
+        <li>Automation workflows</li>
+        <li>Internal business tools</li>
+        <li>Content and media tools</li>
+        <li>Admin dashboards</li>
+        <li>Technical documentation</li>
       </ul>
     </td>
   </tr>
@@ -310,37 +352,103 @@ This architecture pattern demonstrates how I approach **provider abstraction, fa
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Languages, Tools & Technologies
 
 <div align="center">
 
-### Languages & Frameworks
+### Core Languages
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,fastapi,react,nextjs" />
-
-<br />
-<br />
-
-### Databases, Platforms & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=postgres,supabase,redis,vercel,docker,git,github" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,php,cpp,cs" />
 
 <br />
 <br />
 
-### AI & Product Infrastructure
+<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6" />
+
+<br />
+<br />
+
+### Frontend Engineering
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind,bootstrap,sass" />
+
+<br />
+<br />
+
+<img src="https://img.shields.io/badge/Responsive%20UI-020617?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Product%20Interfaces-020617?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Mobile%20First%20UX-020617?style=for-the-badge" />
+
+<br />
+<br />
+
+### Backend Engineering
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,django,laravel,express" />
+
+<br />
+<br />
+
+<img src="https://img.shields.io/badge/REST%20APIs-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/API%20Orchestration-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Service%20Layer%20Design-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Auth%20Flows-111827?style=for-the-badge" />
+
+<br />
+<br />
+
+### Databases & Data Systems
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase" />
+
+<br />
+<br />
+
+<img src="https://img.shields.io/badge/Data%20Modeling-020617?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Transaction%20Logic-020617?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Database%20Workflows-020617?style=for-the-badge" />
+
+<br />
+<br />
+
+### Cloud, DevOps & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,nginx,vercel,git,github,linux" />
+
+<br />
+<br />
+
+<img src="https://img.shields.io/badge/Deployment%20Pipelines-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/System%20Reliability-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cloud%20Architecture-111827?style=for-the-badge" />
+
+<br />
+<br />
+
+### AI, Automation & Product Infrastructure
 
 <img src="https://img.shields.io/badge/OpenAI-020617?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Claude-020617?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Gemini-020617?style=for-the-badge&logo=googlegemini&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenRouter-020617?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLM%20Routing-020617?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20Workflow%20Automation-020617?style=for-the-badge" />
 
 <br />
 <br />
 
-<img src="https://img.shields.io/badge/API%20Design-111827?style=for-the-badge" />
+### Tools & Engineering Workflow
+
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman,npm,yarn,pnpm" />
+
+<br />
+<br />
+
 <img src="https://img.shields.io/badge/System%20Architecture-111827?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Product%20Engineering-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Technical%20Documentation-111827?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Backend%20Reliability-111827?style=for-the-badge" />
 
 </div>
