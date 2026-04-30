@@ -2,11 +2,11 @@
 
 # 👋 Hi, I'm Samuel Alayande
 
-### AI Product Engineer • Full-Stack Engineer • Systems Architect • Technical Founder
+### Software Developer • Full-Stack Engineer • AI Product Engineer • Systems Architect
 
-I design and build scalable, production-minded software systems across **AI platforms, fintech products, marketplaces, real-time infrastructure, automation tools, and backend-driven web systems**.
+I design and build scalable, production-minded software systems across **web platforms, data-driven products, AI systems, fintech products, marketplaces, real-time infrastructure, automation tools, and backend-driven business systems**.
 
-My work sits at the intersection of **software engineering, product thinking, backend architecture, AI infrastructure, and real-world system reliability**.
+My work sits at the intersection of **software engineering, backend architecture, data workflows, product thinking, AI infrastructure, and real-world system reliability**.
 
 <br />
 
@@ -15,7 +15,7 @@ My work sits at the intersection of **software engineering, product thinking, ba
 <br />
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:7c3aed&height=180&section=header&text=Building%20Reliable%20Software%20Systems&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Platforms%20%E2%80%A2%20Backend%20Systems%20%E2%80%A2%20Fintech%20%E2%80%A2%20Real-Time%20Infrastructure&descAlignY=58&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:7c3aed&height=180&section=header&text=Building%20Reliable%20Software%20Systems&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20%E2%80%A2%20Data%20Systems%20%E2%80%A2%20AI%20Platforms%20%E2%80%A2%20Backend%20Infrastructure&descAlignY=58&descSize=16" />
 
 </div>
 
@@ -23,17 +23,18 @@ My work sits at the intersection of **software engineering, product thinking, ba
 
 <div align="center">
 
-## Software engineering with architecture, product clarity, and production reliability.
+## Software engineering with architecture, data thinking, product clarity, and production reliability.
 
 </div>
 
 <p align="center">
-  <strong>AI Systems</strong> •
+  <strong>Software Development</strong> •
   <strong>Full-Stack Engineering</strong> •
   <strong>Backend Architecture</strong> •
+  <strong>Data Analytics</strong> •
+  <strong>AI Systems</strong> •
   <strong>Fintech Infrastructure</strong> •
   <strong>Real-Time Platforms</strong> •
-  <strong>Marketplace Systems</strong> •
   <strong>Automation Tools</strong>
 </p>
 
@@ -45,19 +46,19 @@ My work sits at the intersection of **software engineering, product thinking, ba
   <tr>
     <td width="25%" align="center" valign="top">
       <h3>12+</h3>
-      <p>Years building software, web systems, IT workflows, and product platforms.</p>
+      <p>Years building software, web systems, IT workflows, data-backed solutions, and product platforms.</p>
     </td>
     <td width="25%" align="center" valign="top">
       <h3>10+</h3>
-      <p>Production systems shipped across AI, fintech, marketplaces, automation, and real-time platforms.</p>
+      <p>Production systems shipped across AI, fintech, marketplaces, automation, web, and real-time platforms.</p>
     </td>
     <td width="25%" align="center" valign="top">
       <h3>50+</h3>
       <p>AI tools unified into SoroNow AI across writing, research, content, business, and productivity workflows.</p>
     </td>
     <td width="25%" align="center" valign="top">
-      <h3>Multi-stack</h3>
-      <p>Frontend, backend, AI infrastructure, databases, cloud, product systems, and technical operations.</p>
+      <h3>Data-informed</h3>
+      <p>Experience with reporting workflows, structured records, database-backed systems, and business analytics support.</p>
     </td>
   </tr>
 </table>
@@ -66,11 +67,13 @@ My work sits at the intersection of **software engineering, product thinking, ba
 
 ## 🧭 Engineering Identity
 
-I am a software engineer and technical founder with experience building and operating systems across **web platforms, internal tools, AI products, fintech workflows, real-time applications, automation systems, and business-critical digital infrastructure**.
+I am a software developer, full-stack engineer, AI product engineer, and technical founder with experience building and operating systems across **web platforms, internal tools, data workflows, AI products, fintech systems, real-time applications, automation systems, and business-critical digital infrastructure**.
 
-My strength is not only writing code. It is understanding the product problem, shaping the system architecture, building reliable backend logic, creating usable frontend experiences, and documenting engineering decisions clearly.
+My strength is not only writing code. It is understanding the product problem, shaping the system architecture, designing reliable backend logic, working with structured data, creating usable frontend experiences, and documenting engineering decisions clearly.
 
-I enjoy working across the full product stack — from idea and architecture to implementation, deployment, reliability, and iteration.
+Before moving deeper into modern AI products and full-stack platforms, I built experience across **web systems, internal tools, database-backed workflows, data handling, reporting support, IT infrastructure, and business-facing digital operations**. That background shapes how I build today: with attention to reliability, data integrity, usability, and long-term maintainability.
+
+I enjoy working across the full product stack — from idea and architecture to implementation, deployment, data workflows, reliability, and iteration.
 
 ```txt
 Product idea
@@ -79,6 +82,7 @@ Product idea
 ├── Data model and backend logic
 ├── API design and integrations
 ├── Frontend experience
+├── Data visibility and reporting needs
 ├── Reliability and failure handling
 ├── Deployment and iteration
 └── Documentation for long-term maintainability
@@ -90,9 +94,9 @@ Product idea
 
 Some of my work is private, business-owned, or client-facing, but this GitHub profile is actively being shaped into a public technical portfolio.
 
-Here, I share and will continue to publish **public project builds, architecture examples, implementation patterns, backend workflows, system design notes, and technical documentation** across AI systems, fintech workflows, real-time platforms, marketplaces, automation, and full-stack software engineering.
+Here, I share and will continue to publish **public project builds, architecture examples, implementation patterns, backend workflows, data-system examples, system design notes, and technical documentation** across software engineering, data workflows, AI systems, fintech platforms, real-time products, marketplaces, automation, and full-stack development.
 
-The goal is to make this space a clear view into how I build — from **problem understanding and system architecture** to **API design, data modeling, reliability thinking, frontend experience, and product implementation**.
+The goal is to make this space a clear view into how I build — from **problem understanding and system architecture** to **API design, data modeling, backend reliability, frontend experience, analytics-aware thinking, and product implementation**.
 
 ---
 
@@ -109,12 +113,13 @@ SoroNow AI
 ├── Provider abstraction and fallback logic
 ├── Response normalization and formatting systems
 ├── Frontend UX and mobile-first product polish
+├── Data-informed product improvement
 └── Production-minded AI platform engineering
 ```
 
 I am currently building and evolving **SoroNow AI** — an all-in-one AI workspace designed to help users chat, write, research, analyze documents, generate content, convert files, and complete productivity tasks faster using intelligent AI tools.
 
-The platform combines **AI product engineering, full-stack development, API orchestration, backend reliability, frontend experience, and multi-model infrastructure**.
+The platform combines **software development, AI product engineering, full-stack development, API orchestration, backend reliability, frontend experience, data-informed product thinking, and multi-model infrastructure**.
 
 ---
 
@@ -151,11 +156,26 @@ This architecture pattern demonstrates how I approach **provider abstraction, fa
 <table>
   <tr>
     <td width="33%" valign="top">
+      <h3>Software Product Platforms</h3>
+      <p>
+        Full-stack applications, dashboards, internal tools, business workflows, admin systems, backend services, and production-ready product experiences.
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Data & Reporting Systems</h3>
+      <p>
+        Structured records, SQL-backed workflows, operational reporting, dashboards, business metrics, data cleaning, and analytics-informed product decisions.
+      </p>
+    </td>
+    <td width="33%" valign="top">
       <h3>AI Product Platforms</h3>
       <p>
         Multi-model AI systems, AI workspaces, content tools, document intelligence, routing logic, response normalization, and workflow automation.
       </p>
     </td>
+  </tr>
+
+  <tr>
     <td width="33%" valign="top">
       <h3>Fintech Backends</h3>
       <p>
@@ -168,25 +188,10 @@ This architecture pattern demonstrates how I approach **provider abstraction, fa
         Live tracking, alerts, escalation workflows, notifications, sessions, event-driven flows, and low-latency product experiences.
       </p>
     </td>
-  </tr>
-
-  <tr>
     <td width="33%" valign="top">
-      <h3>Marketplace Platforms</h3>
+      <h3>Marketplace & Automation Tools</h3>
       <p>
-        Listings, catalogs, search, filtering, multi-category structures, user workflows, and scalable data models.
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Business Web Systems</h3>
-      <p>
-        Websites, dashboards, internal tools, backend-connected workflows, admin systems, and operational platforms.
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Automation Tools</h3>
-      <p>
-        Messaging workflows, task orchestration, API integrations, productivity utilities, and intelligent business processes.
+        Listings, catalogs, search, filtering, messaging workflows, task orchestration, API integrations, and intelligent business processes.
       </p>
     </td>
   </tr>
@@ -275,6 +280,21 @@ This architecture pattern demonstrates how I approach **provider abstraction, fa
       </p>
     </td>
     <td width="50%" valign="top">
+      <h3>Data Analytics & Reporting Systems</h3>
+      <p>
+        Data-backed workflow patterns for reporting, structured records, operational visibility, business metrics, dashboards, and analytics-informed decision support.
+      </p>
+      <p>
+        <strong>Focus:</strong> SQL workflows, data cleaning, reporting structures, operational dashboards, data modeling, and business analysis.
+      </p>
+      <p>
+        <code>SQL</code> <code>Reporting</code> <code>Data Modeling</code> <code>Dashboards</code>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
       <h3>Automation & Workflow Systems</h3>
       <p>
         Backend-driven automation patterns for communication workflows, business operations, productivity tools, and intelligent customer engagement systems.
@@ -284,6 +304,18 @@ This architecture pattern demonstrates how I approach **provider abstraction, fa
       </p>
       <p>
         <code>Automation</code> <code>APIs</code> <code>Workflows</code> <code>Operations</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Business Web Systems</h3>
+      <p>
+        Practical web system patterns for websites, internal tools, admin workflows, backend-connected features, operational platforms, and organization-facing software.
+      </p>
+      <p>
+        <strong>Focus:</strong> Web systems, internal tooling, database-backed workflows, usability, deployment, and operational reliability.
+      </p>
+      <p>
+        <code>Web Systems</code> <code>Internal Tools</code> <code>Databases</code> <code>Operations</code>
       </p>
     </td>
   </tr>
@@ -296,16 +328,16 @@ This architecture pattern demonstrates how I approach **provider abstraction, fa
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>AI Systems</h3>
+      <h3>Software Development</h3>
       <ul>
-        <li>Multi-model AI integration</li>
-        <li>LLM routing architecture</li>
-        <li>Provider abstraction</li>
-        <li>Fallback strategies</li>
-        <li>Response normalization</li>
-        <li>AI workflow orchestration</li>
-        <li>Document intelligence</li>
-        <li>Prompt and output systems</li>
+        <li>Full-stack application development</li>
+        <li>Business-facing web systems</li>
+        <li>Internal tools and dashboards</li>
+        <li>Backend-connected workflows</li>
+        <li>Admin and operational systems</li>
+        <li>Maintainable implementation patterns</li>
+        <li>Product-focused delivery</li>
+        <li>Real-world usability</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -338,7 +370,20 @@ This architecture pattern demonstrates how I approach **provider abstraction, fa
 
   <tr>
     <td width="33%" valign="top">
-      <h3>Data & Databases</h3>
+      <h3>Data Analytics & Data Systems</h3>
+      <ul>
+        <li>SQL-backed data workflows</li>
+        <li>Reporting structures</li>
+        <li>Operational dashboards</li>
+        <li>Data cleaning and preparation</li>
+        <li>Business analysis support</li>
+        <li>Structured records and data models</li>
+        <li>Database queries and insights</li>
+        <li>Data-informed product decisions</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Databases & Reliability</h3>
       <ul>
         <li>PostgreSQL data modeling</li>
         <li>MySQL-backed systems</li>
@@ -350,6 +395,22 @@ This architecture pattern demonstrates how I approach **provider abstraction, fa
         <li>Search and filtering systems</li>
       </ul>
     </td>
+    <td width="33%" valign="top">
+      <h3>AI Systems</h3>
+      <ul>
+        <li>Multi-model AI integration</li>
+        <li>LLM routing architecture</li>
+        <li>Provider abstraction</li>
+        <li>Fallback strategies</li>
+        <li>Response normalization</li>
+        <li>AI workflow orchestration</li>
+        <li>Document intelligence</li>
+        <li>Prompt and output systems</li>
+      </ul>
+    </td>
+  </tr>
+
+  <tr>
     <td width="33%" valign="top">
       <h3>Infrastructure</h3>
       <ul>
@@ -374,6 +435,19 @@ This architecture pattern demonstrates how I approach **provider abstraction, fa
         <li>Content and media tools</li>
         <li>Admin dashboards</li>
         <li>Technical documentation</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Technical Operations</h3>
+      <ul>
+        <li>IT systems administration</li>
+        <li>Software setup and support</li>
+        <li>Device and workflow troubleshooting</li>
+        <li>Operational process improvement</li>
+        <li>System maintenance</li>
+        <li>Cross-functional support</li>
+        <li>Records and reporting support</li>
+        <li>Business continuity thinking</li>
       </ul>
     </td>
   </tr>
@@ -428,16 +502,21 @@ This architecture pattern demonstrates how I approach **provider abstraction, fa
 <br />
 <br />
 
-### Databases & Data Systems
+### Databases, Data & Analytics
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase" />
 
 <br />
 <br />
 
+<img src="https://img.shields.io/badge/Data%20Analytics-020617?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQL%20Queries-020617?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Cleaning-020617?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Reporting%20Workflows-020617?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Dashboards-020617?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Business%20Analysis-020617?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Data%20Modeling-020617?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Transaction%20Logic-020617?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Database%20Workflows-020617?style=for-the-badge" />
 
 <br />
 <br />
@@ -479,6 +558,7 @@ This architecture pattern demonstrates how I approach **provider abstraction, fa
 <img src="https://img.shields.io/badge/Product%20Engineering-111827?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Technical%20Documentation-111827?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Backend%20Reliability-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data--Informed%20Engineering-111827?style=for-the-badge" />
 
 </div>
 
@@ -493,6 +573,7 @@ Problem clarity
 ├── What user or business problem is being solved?
 ├── What workflow needs to feel simple?
 ├── What data needs to be trusted?
+├── What needs to be measured or reported?
 └── What can break in real usage?
 
 System design
@@ -500,6 +581,7 @@ System design
 ├── What belongs in the backend?
 ├── What should be async or queued?
 ├── What data needs strong consistency?
+├── What reporting or visibility is needed?
 ├── Where do fallbacks matter?
 └── What should be easy to change later?
 
@@ -509,6 +591,7 @@ Production readiness
 ├── How do we avoid duplicated work?
 ├── How do we protect data integrity?
 ├── How do we keep the interface smooth?
+├── How do we make operational data useful?
 └── How will the system evolve as usage grows?
 ```
 
@@ -534,15 +617,15 @@ Production readiness
 
   <tr>
     <td width="50%" valign="top">
-      <h3>Clean System Boundaries</h3>
+      <h3>Data-Informed Engineering</h3>
       <p>
-        I value clear service responsibilities, clean API contracts, readable workflows, maintainable code structure, and practical separation of concerns.
+        I value structured records, clean data flows, reporting visibility, database integrity, and practical insights that help products and operations improve.
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>Documentation as Proof</h3>
+      <h3>Clean System Boundaries</h3>
       <p>
-        I use documentation, diagrams, and public-safe repositories to communicate architecture, decision-making, tradeoffs, and engineering maturity.
+        I value clear service responsibilities, clean API contracts, readable workflows, maintainable code structure, and practical separation of concerns.
       </p>
     </td>
   </tr>
@@ -551,13 +634,13 @@ Production readiness
     <td width="50%" valign="top">
       <h3>End-to-End Ownership</h3>
       <p>
-        I can move from product idea to architecture, implementation, deployment, testing, UI polish, and continuous improvement.
+        I can move from product idea to architecture, implementation, deployment, testing, data visibility, UI polish, and continuous improvement.
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>Practical Engineering</h3>
       <p>
-        I care about systems that actually work in the real world — with real users, real constraints, real errors, and real business needs.
+        I care about systems that actually work in the real world — with real users, real constraints, real errors, real data, and real business needs.
       </p>
     </td>
   </tr>
@@ -606,20 +689,26 @@ Production readiness
       </p>
     </td>
     <td width="33%" valign="top">
+      <h3>Data Analytics Systems</h3>
+      <p>
+        Reporting workflows, dashboards, structured records, SQL-backed insights, data cleaning, and operational visibility for smarter decisions.
+      </p>
+    </td>
+    <td width="33%" valign="top">
       <h3>AEGIOS</h3>
       <p>
         Fintech system direction focused on accounts, wallets, transactions, financial operations, data integrity, and reliable backend workflows.
       </p>
     </td>
+  </tr>
+
+  <tr>
     <td width="33%" valign="top">
       <h3>WakaRail</h3>
       <p>
         Real-time safety platform direction for journey tracking, SOS alerts, guardian monitoring, escalation flows, and live infrastructure.
       </p>
     </td>
-  </tr>
-
-  <tr>
     <td width="33%" valign="top">
       <h3>JaraBizz</h3>
       <p>
@@ -632,12 +721,6 @@ Production readiness
         Automation platform direction for AI-powered customer engagement, communication workflows, messaging APIs, and operational productivity.
       </p>
     </td>
-    <td width="33%" valign="top">
-      <h3>System Design Library</h3>
-      <p>
-        Public-safe architecture examples showing how I think through backend flows, reliability, product systems, and implementation patterns.
-      </p>
-    </td>
   </tr>
 </table>
 
@@ -646,22 +729,24 @@ Production readiness
 ## 📌 Experience Snapshot
 
 ```txt
-12+ years building software, web systems, IT workflows, and product platforms
+12+ years building software, web systems, IT workflows, data-backed systems, and product platforms
 
 Experience across:
-├── AI product engineering
+├── Software development
 ├── Full-stack web development
 ├── Backend systems
+├── Data analytics and reporting workflows
+├── Database-backed applications
+├── AI product engineering
 ├── Fintech architecture
 ├── Real-time platforms
 ├── Marketplace systems
 ├── Automation workflows
 ├── IT systems administration
-├── Database-backed applications
 └── Production product ownership
 ```
 
-My background includes hands-on engineering across **SoroNow AI, fintech systems, real-time safety platforms, marketplace products, automation tools, business websites, internal systems, and IT operations**.
+My background includes hands-on engineering across **software development, data workflows, SoroNow AI, fintech systems, real-time safety platforms, marketplace products, automation tools, business websites, internal systems, reporting support, and IT operations**.
 
 ---
 
@@ -670,27 +755,27 @@ My background includes hands-on engineering across **SoroNow AI, fintech systems
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>AI Product Engineering roles</strong>
-      <br />
-      Building AI-powered products, multi-model systems, workflow tools, and intelligent product experiences.
-    </td>
-    <td width="50%" valign="top">
       <strong>Full-Stack / Backend Engineering roles</strong>
       <br />
-      Designing scalable APIs, product systems, dashboards, backend services, and database-backed workflows.
+      Designing scalable APIs, product systems, dashboards, backend services, database-backed workflows, and reliable web platforms.
+    </td>
+    <td width="50%" valign="top">
+      <strong>Data-informed software engineering roles</strong>
+      <br />
+      Building software that uses structured data, reporting workflows, dashboards, analytics, and database-backed decision support.
     </td>
   </tr>
 
   <tr>
     <td width="50%" valign="top">
-      <strong>Startup and founding engineering work</strong>
+      <strong>AI Product Engineering roles</strong>
       <br />
-      Helping shape products from zero to scale across AI, fintech, marketplaces, automation, and infrastructure.
+      Building AI-powered products, multi-model systems, workflow tools, and intelligent product experiences.
     </td>
     <td width="50%" valign="top">
-      <strong>Technical partnerships</strong>
+      <strong>Startup and founding engineering work</strong>
       <br />
-      Supporting architecture, system design, implementation patterns, product strategy, and engineering execution.
+      Helping shape products from zero to scale across software, AI, data, fintech, marketplaces, automation, and infrastructure.
     </td>
   </tr>
 </table>
@@ -701,7 +786,7 @@ My background includes hands-on engineering across **SoroNow AI, fintech systems
 
 <div align="center">
 
-### Let’s connect around AI systems, backend architecture, fintech infrastructure, real-time platforms, marketplaces, automation, and product-driven engineering.
+### Let’s connect around software engineering, backend architecture, data systems, AI products, fintech infrastructure, real-time platforms, marketplaces, automation, and product-driven engineering.
 
 <br />
 
@@ -722,6 +807,6 @@ My background includes hands-on engineering across **SoroNow AI, fintech systems
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1e3a8a,100:0f172a&height=120&section=footer" />
 
-### Building software systems with clarity, reliability, and product purpose.
+### Building software systems with clarity, reliability, data awareness, and product purpose.
 
 </div>
